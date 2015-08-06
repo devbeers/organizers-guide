@@ -6,7 +6,7 @@ This is a [GitBook](https://www.gitbook.com) containing all information that org
 
 Topics:
 
-- [What is the purpose and goal of the event](event_purpose_and_goal)
+- [What is the purpose and goal of the event](event_purpose_and_goal.html)
 - How to find co-organizers
 - How to find/choose a bar
 - FAQ
