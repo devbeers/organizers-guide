@@ -5,5 +5,5 @@
 * [3 - Code of Conduct](code_of_conduct.md)
 * [FAQ](faq.md)
 * [4 - Location](location.md)
-* [Event Day](event_day.md)
+* [5 - Event Day](event_day.md)
 
