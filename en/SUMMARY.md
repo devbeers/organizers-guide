@@ -7,5 +7,5 @@
 * [5 - Location](location.md)
 * [6 - Event Day](event_day.md)
 * [7 -FAQ](faq.md)
-* Organizer Requirements
+* [Organizer Requirements](organizer_requirements.md)
 
