@@ -11,7 +11,7 @@ The event happens monthly, and the day might vary in-between cities. It happens 
 
 **The best days will usually end up being between Tuesday, Wednesday or Thursday from our experience.**
 
-After you choose a weekday, we'll usually try to have the event on that last weekday of the month, as to give more time for the organizers to set things in motion.
+After the organizers choose a weekday, we'll usually try to have the event on that last weekday of the month, so the organizers have more time to set things in motion.
 
 The bar/pub may also vary in-between months. We do this for a couple reasons:
 
