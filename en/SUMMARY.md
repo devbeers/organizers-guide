@@ -6,5 +6,5 @@
 * [4 - Location](location.md)
 * [5 - Event Day](event_day.md)
 * [FAQ](faq.md)
-* Event Details
+* [Event Details](event_details.md)
 
