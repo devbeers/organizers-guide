@@ -1,6 +1,6 @@
 # Organizer Requirements
 
-The requirements to become a devbeers organizer are:
+The requirements to become a **devbeers** organizer are:
 
 - Be a developer
 - Have about 2 hours every week to help with the organization
