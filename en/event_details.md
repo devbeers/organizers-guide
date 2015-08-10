@@ -20,7 +20,12 @@ The bar/pub may also vary in-between months. We do this for a couple reasons:
 
 ## Schedule
 
-The event starts at 7h30pm, so it's best if the organizers arrive around 7pm. It usually ends around 11pm (or 4am sometimes).
+**07h00** - The event starts at 7h30pm, so it's best if the organizers arrive around 7pm. Talk to the bar manager, figure out how the beer distribution is gonna work (tickets, paper marks, individual bills), set up banner
+**07h30** - Event start
+**09h00** - Call participants attention (yell), organizers introduce themselves, thank participants for coming, thank sponsors, and do any giveaways
+**11h00** - Event end
+
+. It usually ends around 11pm (or 4am sometimes).
 
 Around 9pm the organizers call the attention of the participants to give a few messages:
 
