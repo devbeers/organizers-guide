@@ -9,4 +9,4 @@ The requirements to become a **devbeers** organizer are:
 
 The last one might be a little bit hard considering we only have the event in a small number of cities right now, so it's more of a big +1 if you have it. It also helps if you've been involved in the organization of other meetups or conferences in your community.
 
-There'll also be a call via Hangout when organizers first join to help with the onboarding and to answer any questions.
+There'll also be a call via Hangout when organizers first join to help with the on-boarding and to answer any questions.
