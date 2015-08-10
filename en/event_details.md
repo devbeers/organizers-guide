@@ -24,6 +24,8 @@ The bar/pub may also vary in-between months. We do this for a couple reasons:
 
 The event starts at 7h30pm, so it's best if the organizers arrive around 7pm. Talk to the bar manager, figure out how the beer distribution is gonna work (beer tickets, individual tabs, etc), set up the space in case you need to move tables/chairs, set any swag on table (stickers, t-shirts).
 
+**Tip:** It's easier to pay for the beer when you arrive
+
 #### 07h30
 
 Event starts, welcome everyone that arrives and check them in. Make sure to ask if that's the participant's first time at the event, and explain to them how it works.
@@ -40,7 +42,7 @@ Call participants attention (microphone, yelling) and:
 
 #### 11h00
 
-Event end! It usually ends around 11pm (or 4am sometimes).
+Event end! It usually ends around 11pm (or 4am sometimes). Remember to pack the banner, make sure that the beer is paid for, and to thank the bar manager.
 
 ## Price
 
