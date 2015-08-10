@@ -20,20 +20,27 @@ The bar/pub may also vary in-between months. We do this for a couple reasons:
 
 ## Schedule
 
-**07h00** - The event starts at 7h30pm, so it's best if the organizers arrive around 7pm. Talk to the bar manager, figure out how the beer distribution is gonna work (tickets, paper marks, individual bills), set up banner
-**07h30** - Event start
-**09h00** - Call participants attention (yell), organizers introduce themselves, thank participants for coming, thank sponsors, and do any giveaways
-**11h00** - Event end
+#### 07h00
 
-. It usually ends around 11pm (or 4am sometimes).
+The event starts at 7h30pm, so it's best if the organizers arrive around 7pm. Talk to the bar manager, figure out how the beer distribution is gonna work (beer tickets, individual tabs, etc), set up the space in case you need to move tables/chairs, set any swag on table (stickers, t-shirts).
 
-Around 9pm the organizers call the attention of the participants to give a few messages:
+#### 07h30
+
+Event starts, welcome everyone that arrives and check them in. Make sure to ask if that's the participant's first time at the event, and explain to them how it works.
+
+#### 09h00
+
+Call participants attention (microphone, yelling) and:
 
 - The organizers introduce themselves
 - Thanks all the participants for coming
 - Open space for all the sponsors to give a quick message (maximum of 2 minutes)
 - Any swag giveaways
-- Open space for message or giveaways from developer communities
+- Open space for message or giveaways from developer communities :)
+
+#### 11h00
+
+Event end! It usually ends around 11pm (or 4am sometimes).
 
 ## Price
 
