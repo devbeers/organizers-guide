@@ -8,4 +8,5 @@
 * [6 - Location](location.md)
 * [7 - Event Day](event_day.md)
 * [8 - FAQ](faq.md)
+* Starting a devbeers in your city
 
