@@ -8,5 +8,5 @@
 * [6 - Location](location.md)
 * [7 - Event Day](event_day.md)
 * [8 - FAQ](faq.md)
-* Starting a devbeers in your city
+* [Starting a devbeers in your city](starting_a_devbeers_in_your_city.md)
 
