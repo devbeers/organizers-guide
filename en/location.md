@@ -1,6 +1,8 @@
 # Location
 
-Here are some tips when searching for a location to host a devbeers:
+Here are some tips when searching for a location to host a devbeers!
+
+First thing you should know, you can probably get a space for free. Since the event will usually bring around 50 people to a pub/bar, you can usually negotiate any fees that the place might have for just getting in, or even get discounts on the price of the beer.
 
 ## Finding a place:
 - [Foursquare](https://foursquare.com/) and [Yelp](http://www.yelp.com/) are great for making a list of good places to look into.
