@@ -19,13 +19,3 @@ Our goals are to:
 The event has a simple format: it's free to sign up and participants get free beers (paid by awesome sponsors, soda and food not included). It's monthly and always during a weekday, starting at 7h30pm.
 
 The focus is on developers, and that will always be the majority of people in the event, but we welcome people from other areas as well. There's no need for a laptop (unless you wanna program during the event which is absolutely fine), and there's no presentation or talks.
-
-## How to start a devbeers in your city
-
-To start a devbeers in your city please:
-
-- Open an issue in our repository [here](https://github.com/devbeers/devbeers.github.io/issues/) with the name of your city
-- Wait for our response
-- We will update the website with the city and ask the organizers to add their own information
-- We'll add the organizers to the devbeers Slack
-- Start!
