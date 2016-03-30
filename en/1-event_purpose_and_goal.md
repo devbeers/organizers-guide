@@ -19,3 +19,7 @@ Our goals are to:
 The event has a simple format: it's free to sign up and participants get free beers (paid by awesome sponsors, soda and food not included). It's monthly and always during a weekday, starting at 7h30pm.
 
 The focus is on developers, and that will always be the majority of people in the event, but we welcome people from other areas as well. There's no need for a laptop (unless you wanna program during the event which is absolutely fine), and there's no presentation or talks.
+
+## What if I don't like beers or alcohol?
+
+You're welcome just as much as everyone else! The beer and bar setting is just an excuse for people to go out and relax, but you don't have to drink. Our goal is to have a positive and welcoming environment for everyone to talk and have fun.
